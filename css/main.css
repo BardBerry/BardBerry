@@ -1,0 +1,894 @@
+/* Общие параметры */
+
+@charset "utf-8";
+* {
+	margin: 0;
+	padding: 0;
+	outline: none;
+}
+
+.clearfix:after {
+	content: '';
+	display: table;
+	widows: 100%;
+	clear: both;
+}	
+
+body {
+	width: 100%;
+	font-family:'Roboto', sans-serif;
+	float: left;
+	text-transform: uppercase;
+	background: url(../img/Bg10_3.jpg) no-repeat center center / cover;
+	background-attachment:fixed;
+}
+
+
+header {
+	background: url(../img/Bg1.jpg) no-repeat center center / cover;
+	margin: 0 auto;
+}
+
+.height_vh {
+	height: 100vh;	
+}
+
+.container {
+	width: 80%;
+	margin: 0 auto;	
+}
+
+/* Скролл наверх */
+
+#toTop {
+	max-width: 100%;
+    height: auto;
+	width: 50px;
+	position: fixed;
+	bottom: 8vh;
+	right: 2%;
+	cursor: pointer;
+	display: none;
+}
+
+/* Шапка */
+
+.logo2 {
+	display: none;
+}
+
+.logo {
+	margin-top: 2vh;
+	float: left;
+	width: 120px;
+	margin-right: 1.5%;
+}
+
+header .phone {
+	float: right;
+	margin-top: 3.8vh;
+	font-family:'Roboto', sans-serif;
+	font-size: 1em;
+	font-weight: bold;
+	letter-spacing: 0.0625em;
+	color: red;
+}
+
+header .number {
+	float: right;
+	margin-right: 8px;
+	margin-top: 3.78vh;
+}
+
+/* Меню */
+
+.nav1 {
+	padding-top: 3.8vh;
+	text-align: center;
+}
+
+.menu {
+	display: inline-block;
+}
+
+.menu a:hover {
+	border-top: 1px solid #fff;
+	border-bottom: 1px solid #fff;
+	padding: 4px 0px;
+	transition: 0.4s all;
+}
+
+a {
+	text-decoration: none;
+	color: #fff;
+}
+
+.here2 {
+	border-top: 1px solid #fff;
+	border-bottom: 1px solid #fff;
+	padding: 4px 0px;
+}
+
+.lineed {
+	float: left;
+	display: block;
+	margin-right: 15px;
+
+}
+
+.menu li a {
+	color: #fff;
+	text-decoration: none;
+	font-size: 0.825em;
+	font-family:'Open Sans', sans-serif;
+	font-weight: bold;
+	letter-spacing: 0.0375em;
+}
+
+/* Подменю */
+
+.menu-title:after{content:"Меню";}
+
+.menu-title:hover {
+	text-decoration: underline;
+	color: #fff;
+}
+
+.here {
+	text-decoration: underline;
+	color: #fff;
+}
+
+#adapt {
+	display: none;
+}
+
+.pod_menu li:hover a{
+	text-decoration: underline;
+	color: #fff;
+}
+
+.menu-title, .pod_menu {
+	float: right;
+}
+
+.pod_menu {
+	position: absolute;
+	right: 5%;
+}
+
+.pod_menu li {
+	list-style-type: none;	
+	text-decoration: none;
+	font-size: 0.8em;
+	font-family:'Open Sans', sans-serif;
+	font-weight: bold;
+	letter-spacing: 0.0375em;	
+	padding-top: 0.5vh;
+	text-align: right;
+}
+
+.menu-title {
+	padding-top: 3.75vh;
+	color: #fff;
+	text-decoration: none;
+	font-size: 1em;
+	font-family:'Open Sans', sans-serif;
+	font-weight: bold;
+	letter-spacing: 0.0375em;	
+}
+
+/* Первый блок */
+
+header h2 {
+	font-size: 2em;
+	color: #fff;
+	text-align: center;
+	margin: 0 auto;
+	padding-top: 34vh;
+	letter-spacing: 0.2em;
+}
+
+.second_h2 {
+	font-size: 2em;
+	color: #fff;
+	text-align: center;
+	margin: 0 auto;
+	padding-top: 34vh;
+	letter-spacing: 0.2em;
+	display: none;
+}
+
+header h1{
+	font-size: 5.625em;
+	color: #fff;
+	text-align: center;
+	margin: 0 auto;
+	letter-spacing: 0.3em;
+}
+
+.button1 {
+	color: #fff;
+	border-radius: 6px;
+	border: 2.8px solid #fff;
+	width: 216px;
+	padding-top: 14px;
+	padding-bottom: 14px;
+	font-size: 1.0625em;
+	letter-spacing: 0.1125em;
+	display: block;
+	text-align: center;
+	margin: 0 auto;
+	margin-top: 5vh;
+}
+
+.button1:hover {
+	text-decoration: underline; 
+}
+
+.down {
+	text-align: center;
+}
+
+/* Второй блок */
+
+.extremum-slide {
+	display:none;
+}
+
+.news_text a{
+	color: #668e23;
+}
+
+.news-text {
+	font-family: 'Oswald', sans-serif;
+	color: #0a090c;
+	font-weight: 0.9375em;
+	text-transform: none;
+	letter-spacing: 0.0375em;
+	line-height: 1.8em;
+	text-align: justify;
+	padding-bottom: 2vh;
+}
+
+.news_list {
+	font-family: 'Oswald', sans-serif;
+	color: #0a090c;
+	font-weight: 0.9375em;
+	text-transform: none;
+	letter-spacing: 0.0375em;
+	line-height: 1.8em;
+	text-align: justify;
+	padding-bottom: 2vh;
+}
+
+.top {
+	padding-top: 3vh;
+}
+
+#fa2 {
+	font-size: 2.375em;
+	color: #26242e;
+	margin-top: 4vh;
+	margin-bottom: 2vh;
+}
+
+h2 {
+	font-size: 2.5em;
+	text-align: center;
+	padding-top: 8.5vh;	
+	color: #fff;
+	letter-spacing: 0.05em;
+}
+
+.section2 h2, h3{
+	color:  #26242e; 
+}
+
+hr {
+	border: none;
+	background-color: #26242e;
+	width: 170px;
+	height: 2px;
+	margin: 0 auto;
+	margin-top: 1.8vh;
+}
+
+.news_data {
+	font-weight: 1em;
+	color: #aaaaaa;
+	font-style: italic;
+	font-family: 'Oswald', sans-serif;
+	letter-spacing: 0.1em;
+	padding-left: 6px;
+}
+
+.fa-clock-o {
+	font-weight: 1em;
+	color: #aaaaaa;
+	padding-top: 0.38vh;
+}
+
+.pad {
+	padding-top: 3vh;
+}
+
+.news_text {
+	font-family: 'Oswald', sans-serif;
+	color: #0a090c;
+	font-weight: 0.9375em;
+	text-transform: none;
+	letter-spacing: 0.0375em;
+	line-height: 1.8em;
+	text-align: justify;
+	padding-bottom: 2vh;
+	padding-top: 3vh;
+}
+
+.news_text2 {
+	font-family: 'Oswald', sans-serif;
+	color: #0a090c;
+	font-weight: 0.9375em;
+	text-transform: none;
+	letter-spacing: 0.0375em;
+	line-height: 1.8em;
+	border-bottom: 1px solid #3f3f3f;
+	padding: 4px 0px;
+}
+
+.news_text2:hover {
+	color: #aaa;
+	border-color: #aaa;
+}
+
+.news_h3 h3 {
+	letter-spacing: 0.125em;
+	margin-bottom: 2vh;
+}
+
+.news_h3 {
+	float: right;
+	width: 96%;
+}
+
+.news_h3 ul {
+	float: left;
+	margin: 0;
+}
+
+.news_h3 li {
+	float: left;
+	display: block;
+}
+
+.border, .img_news {
+	border: 2px solid #7b7b7b;
+	float: left;
+}
+
+td {
+	vertical-align: top;
+	padding-top: 6%;
+}
+
+/* Третий блок */
+
+.section3 {
+	background: url(../img/лесфон.jpg) no-repeat center center / cover;	
+	color: #fff;
+	margin: 0 auto;
+}
+
+.section3 hr {
+	background-color: #fff;
+}
+
+.section3 .fa-angle-down {
+	color: #fff;
+	font-size: 2.375em;
+	margin-top: 26vh;
+	margin-bottom: 2vh;
+}
+
+.section3 img {
+	width: 90px;
+	padding-bottom: 5vh;
+}
+
+.about_us_class h3 {
+	font-size: 1.0625em;
+	letter-spacing: 0.125em;
+	color: #fff;
+}
+
+.about_us_class p {
+	font-family: 'Oswald', sans-serif;
+	font-size: 0.9375em;
+	text-transform: none;
+	letter-spacing: 0.0375em;
+	line-height: 1.8em;
+	padding-top: 2vh;
+}
+
+.about_us_class {
+	padding-top: 22vh;
+	width: 20%;
+	float: left;
+	text-align: center;
+}
+
+.con_2 {
+	margin-left: 6.66666%;
+}
+
+.con_3 {
+	margin-left: 6.66666%;
+}
+
+.con_4 {
+	margin-left: 6.66666%;
+}
+
+/*  Четвертая секция */
+
+.section4 h2 {
+	color: #2b2b30;
+}
+
+.section4 p {
+	font-family: 'Oswald', sans-serif;
+	color: #26242e;
+	font-weight: 0.9375em;
+	text-transform: none;
+	letter-spacing: 0.0375em;
+	line-height: 1.8em;
+	text-align: justify;
+}
+
+.history {
+	display: block;
+	padding-top: 8vh;
+}
+
+.history2 {
+	display: block;
+}
+
+.img1{
+	width: 500px;
+	max-width: 100%;
+    height: auto;
+	float: left;
+	margin-right: 2%;
+	border: 2px solid #7b7b7b;
+}
+
+.img2 {
+	float: right;
+	width: 500px;
+	max-width: 100%;
+    height: auto;
+	margin-left: 2%;
+	border: 2px solid #7b7b7b;
+}
+
+.years {
+	text-align: right;
+	font-family: 'Oswald', sans-serif;
+	color: #26242e;
+	font-size: 1.33em;
+	text-transform: none;
+	letter-spacing: 0.0375em;
+	line-height: 1.8em;
+	padding-top: 12.5vh;
+	margin-right: 2%;
+	margin-bottom: 8vh;
+}
+
+/*footer*/
+
+
+footer {
+	background-color: #302d3a;
+}
+
+.second_bar {
+	background-color: #23212b;
+}
+
+body {
+	display: flex;
+	flex-direction: column;
+}
+
+.content {
+	flex-grow: 1;
+}
+
+footer p{
+	font-family: 'Oswald', sans-serif;
+	color: #ccc;
+	text-transform: none;
+	letter-spacing: 0.08em;
+	line-height: auto;
+	font-size: 0.75em;
+}
+
+.foot_text{
+	text-align: center;
+	margin: 0 auto;
+	font-size: 0.8em;
+}
+
+.email {
+	float: right;
+	font-size: 1em;
+}
+
+.left {
+	float: left;
+	font-size: 1em;
+}
+
+.security {
+	text-align: center;
+	padding-top: 1vh;
+	padding-bottom: 1vh;
+}
+
+.foot1 {
+	padding-top: 2vh;
+	margin-bottom: 2vh;
+}	
+
+/* Медиа запросы */
+
+@media screen and (max-width: 1485px) {
+	.container{
+		width: 90%;
+	}
+}
+
+@media screen and (max-width: 1320px) and (orientation: landscape) {
+	.pod_menu {
+	top: 8vh;
+	}
+}
+
+@media screen and (max-width: 1150px) {
+	.pod_menu {
+	top: 6.4vh;
+	}
+}
+
+
+@media screen and (max-width: 980px) and (orientation: landscape) {
+	.pod_menu {
+	top: 6.4vh;
+	}
+}
+
+@media screen and (max-width: 980px) and (orientation: portrait) {
+	.pod_menu {
+	top: 6.4vh;
+	}
+}
+
+@media screen and (max-width: 900px) and (orientation: landscape) {
+	.pod_menu {
+	top: 9vh;
+	}
+	.pod_menu li {
+	font-size: 0.7em;
+	}
+}
+
+@media screen and (max-width: 900px) and (orientation: portrait) {
+	.pod_menu {
+	top: 6.4vh;
+	}
+}
+
+@media screen and (max-width: 700px) and (orientation: landscape) {
+	.pod_menu {
+	top: 10vh;
+	}
+
+	.pod_menu li {
+	font-size: 0.7em;
+	}
+}
+
+@media screen and (max-width: 700px) and (orientation: portrait) {
+	.pod_menu {
+	top: 6.4vh;
+	}
+
+	.pod_menu li {
+	font-size: 0.7em;
+	}
+}
+
+@media screen and (max-width: 600px) and (orientation: landscape) {
+
+	.pod_menu li {
+	font-size: 0.6em;
+	}
+}
+
+@media screen and (max-width: 520px) and (orientation: landscape) {
+	.pod_menu {
+	top: 9vh;
+	}
+
+	.pod_menu li {
+	font-size: 0.6em;
+	}
+}
+
+@media screen and (max-width: 520px) and (orientation: portrait) {
+	.pod_menu {
+	top: 7vh;
+	}
+
+	.pod_menu li {
+	font-size: 0.64em;
+	}
+}
+
+@media screen and (max-width: 410px) and (orientation: landscape) {
+	.pod_menu {
+	top: 8vh;
+	}
+
+	.pod_menu li {
+	font-size: 0.6em;
+	}
+}
+
+@media screen and (max-width: 410px) and (orientation: portrait) {
+	.pod_menu {
+	top: 8vh;
+	}
+
+	.pod_menu li {
+	font-size: 0.64em;
+	}
+}
+
+@media screen and (max-width: 1320px) {
+	
+	/* шапка и первый блок */
+
+	.nav1 {
+		display: none;
+	}
+
+	#adapt {
+		display: block;
+	}
+
+	#phone {
+		float: left;
+		padding-left: 3%;
+	}
+
+	header h2 {
+		padding-top: 40.6vh;
+	}
+
+	.logo1 {
+		width: 110px;
+	}
+}
+
+@media screen and (max-width: 980px) {
+	header h1 {
+		font-size: 4em;
+	}
+
+	header h2 {
+		font-size: 1.6em;
+	}
+
+	.button1 {
+		width: 180px;
+		padding-top: 12px;
+		padding-bottom: 12px;
+		font-size: 0.9em;
+	}
+
+	.logo1 {
+		width: 100px;
+	}
+
+	.left, .email {
+		font-size: 0.8em;
+	}
+}
+
+@media screen and (max-width: 900px) {
+	
+	.section3 {
+		background: url(../img/лепестки2.jpg) no-repeat center center / cover;	
+	}
+
+	.about_us_class {
+		width: 40%;
+		padding-top: 0vh;
+	}
+	
+	.con_1 {
+		padding-top: 16vh;
+		margin-left: 0%;
+	}
+
+	.con_2 {
+		margin-left: 20%;
+		padding-top: 16vh;
+	}
+
+	.con_3 {
+		padding-top: 10vh;
+		margin-left: 0%;
+	}
+
+	.con_4 {
+		margin-left: 20%;
+		padding-top: 10vh;
+	}
+
+	.border, .img_news {
+		display: none;
+	}
+
+	.news_h3 {
+		width: 100%;
+		padding-top: 4vh;	
+	}
+
+}
+
+@media screen and (max-width: 770px) {
+	.foot_text {
+		display: none;
+	}
+
+	.second_bar {
+		margin-top: 2vh;
+	}
+
+}
+
+@media screen and (max-width: 740px) {
+	
+	.second_h2 {
+		display: block;
+		font-size: 1.4em;
+		padding-top: 42vh;
+	}
+
+	header h2 {
+		display: none;
+	}
+}
+
+@media screen and (max-width: 700px) {
+
+	.about_us_class {
+		width: 80%;
+
+	}
+	
+	.con_1 {
+		margin-left: 10%;
+	}
+
+	.con_2 {
+		margin-left: 10%;
+	}
+
+	.con_3 {
+		margin-left: 10%;
+		padding-top: 16vh;
+	}
+
+	.con_4 {
+		margin-left: 10%;
+		padding-top: 16vh;
+	}
+	
+	header h1 {
+		font-size: 3em;
+	}
+
+	header h2 {
+		font-size: 1.2em;
+	}
+
+	.button1 {
+		border: 2px solid #fff;
+	}
+
+	.img1, .img2 {
+		width: 100%;
+		margin-bottom: 4vh;
+	}
+
+	.history {
+		margin-bottom: 2vh;
+	}
+
+	.years {
+		padding-top: 4vh;
+		float: left;
+	}
+
+	.logo1 {
+		width: 80px;
+	}
+}
+
+@media screen and (max-width: 600px) {
+
+	header h1 {
+		font-size: 2.3em;
+	}
+
+}
+
+@media screen and (max-width: 520px) {
+	#phone {
+		display: none;
+	}
+
+	header h2 {
+		font-size: 1.1em;
+	}
+
+	header h1 {
+		font-size: 2.2em;
+	}
+
+	.news_text {
+		font-size: 0.9em;
+	}
+
+	.news-text {
+		font-size: 0.9em;
+	}
+
+	.history p, .history2 p {
+		font-size: 0.9em;
+	}
+
+	.box p {
+		font-size: 0.9em;
+	}
+
+	h2 {
+		font-size: 2em;
+	}
+
+	.second_h2 {
+		font-size: 1.2em;
+	}
+
+	.logo1 {
+		width: 80px;
+	}
+
+	.news_list {
+		font-size: 0.9em;
+	}
+}
+
+@media screen and (max-width: 410px) {
+	header h2 {
+		font-size: 0.95em;
+	}
+
+	header h1 {
+		font-size: 2em;
+	}	
+}

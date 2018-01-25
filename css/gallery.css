@@ -1,0 +1,62 @@
+/*Галерея*/
+
+header {
+	background: url(../img/Bg5.jpg) no-repeat center center / cover;
+}
+
+body {
+	background: url(../img/Bg13_2.jpg) no-repeat center center / cover;
+	background-attachment:fixed;
+}
+
+.small {
+	margin-right: 6px;
+	margin-left: 6px;
+	margin-top: 6px;
+	margin-bottom: 6px;
+	border: 2px solid #fff;
+	max-width: 20%;
+}
+
+header .phone {
+	color: #fff;
+}
+
+h2 {
+	font-size: 2.5em;
+	text-align: center;
+	padding-top: 8.5vh;	
+	color: #26242e;
+	letter-spacing: 0.05em;
+}
+
+hr {
+	border: none;
+	background-color: #26242e;
+	width: 170px;
+	height: 2px;
+	margin: 0 auto;
+	margin-top: 1.8vh;
+	margin-bottom: 8.5vh;
+
+}
+
+.section1 {
+	margin-bottom: 8.5vh;
+}
+
+.gallery {
+	text-align: center;
+	margin: 0 auto;
+}
+
+.here {
+	text-decoration: underline;
+	color: #fff;
+}
+
+.here2 {
+	border-top: 1px solid #fff;
+	border-bottom: 1px solid #fff;
+	padding: 4px 0px;
+}

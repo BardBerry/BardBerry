@@ -1,0 +1,85 @@
+/*Полезная информация*/
+
+header {
+	background: url(../img/Bg6.jpg) no-repeat center center / cover;
+}
+
+.here {
+	text-decoration: underline;
+	color: #fff;
+}
+
+.here2 {
+	border-top: 1px solid #fff;
+	border-bottom: 1px solid #fff;
+	padding: 4px 0px;
+}
+
+.section1 h2, .section2 h2 {
+	font-size: 2.5em;
+	text-align: center;
+	padding-top: 8.5vh;	
+	color:  : #2b2b30;;
+	letter-spacing: 0.05em;
+}
+
+hr {
+	border: none;
+	background-color: #2b2b30;
+	width: 170px;
+	height: 2px;
+	margin: 0 auto;
+	margin-top: 1.8vh;
+	margin-bottom: 6vh;
+}
+
+.section1, .section2 {
+	background-color: #fff;
+	margin-top: 8.5vh;
+	margin-bottom: 8.5vh;
+	box-shadow: 1em 1em 20px rgba(122,122,122,0.5); 
+	padding-bottom: 8.5vh;
+}
+
+.section2 p, .section1 p {
+	font-family: 'Oswald', sans-serif;
+	color: #26242e;
+	font-size: 1.2em;
+	text-transform: none;
+	letter-spacing: 0.0375em;
+	line-height: 1.8em;
+	text-align: justify;
+	margin-left: 8%;
+	margin-right: 8%;
+}
+
+header .phone {
+	color: #fff;
+}
+
+.padding {
+	padding-bottom: 1vh; 
+	padding-top: 2vh;
+}
+
+@media screen and (max-width: 700px) {
+	
+	.section1 h2, .section2 h2 {
+		font-size: 2em;
+	}
+
+	.section1 p {
+		font-size: 0.9em;
+	}
+
+	.section2 p {
+		font-size: 0.9em;
+	}
+}
+
+
+@media screen and (max-width: 520px) {
+	h2 {
+		font-size: 1.6em;
+	}
+}

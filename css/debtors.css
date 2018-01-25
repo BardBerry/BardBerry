@@ -1,0 +1,183 @@
+/*Должники*/
+
+body {
+	background: url(../img/Bg13_2.jpg) no-repeat center center / cover;
+	background-attachment:fixed;
+}
+
+
+header {
+	background: url(../img/Bg4.jpg) no-repeat center center / cover;
+}
+
+.section1 div {
+	text-align: center;
+	padding-bottom: 8.5vh;
+	padding-top: 8.5vh;
+
+}
+
+header .phone {
+	color: red;
+}
+
+h2 {
+	font-size: 2.5em;
+	text-align: center;
+	padding-top: 8.5vh;	
+	color:  #ec0000;
+	letter-spacing: 0.05em;
+	margin-right: 8%;
+	margin-left: 8%; 
+}
+
+hr {
+	border: none;
+	background-color: #ec0000;
+	width: 170px;
+	height: 2px;
+	margin: 0 auto;
+	margin-top: 1.8vh;
+	margin-bottom: 6vh;
+}
+
+.here {
+	text-decoration: underline;
+	color: #fff;
+}
+
+.here2 {
+	border-top: 1px solid #fff;
+	border-bottom: 1px solid #fff;
+	padding: 4px 0px;
+}
+
+.section1, .section2, .section3, .section4 {
+	background-color: #fff;
+	margin-top: 8.5vh;
+	margin-bottom: 8.5vh;
+	box-shadow: 1em 1em 20px rgba(122,122,122,0.5);
+}
+
+.section1 p, .section2 p {
+	font-family: 'Oswald', sans-serif;
+	color: #26242e;
+	font-size: 1.2em;
+	text-transform: none;
+	letter-spacing: 0.0375em;
+	line-height: 1.8em;
+	text-align: justify;
+	margin-left: 8%;
+	margin-right: 8%;
+	margin-bottom: 2vh;
+}
+
+.section3 p, .section4 p {
+	font-family: 'Oswald', sans-serif;
+	color: #26242e;
+	font-size: 1.2em;
+	text-transform: none;
+	letter-spacing: 0.0375em;
+	line-height: 1.8em;
+	text-align: justify;
+	margin-left: 8%;
+	margin-right: 8%;
+	margin-top: 4vh;
+}
+
+.section4 {
+	padding-bottom: 8.5vh;
+}
+
+.right {
+	padding-top: 2vh;
+	padding-bottom: 8.5vh;
+}
+
+.table_blur {
+	background: #fff;
+	border-collapse: collapse;
+	text-align: center;
+}
+.table_blur th {
+	background-color: #302d3a;
+	color: #fff;
+	padding: 10px 15px;
+}
+
+.table_blur tr:nth-child(odd) {
+	background: #dde7ef;
+}
+
+.table_blur td {
+	padding: 8px 15px;
+	transition: all 0.5s ease;
+}
+
+.table_blur tbody:hover tr:hover td {
+	color: #444444;
+	text-shadow: none;
+}
+
+table {
+	margin: 0 auto;
+	width: 84%;
+	font-family: 'Oswald', sans-serif;
+	color: #26242e;
+	font-size: 1em;
+	text-transform: none;
+	letter-spacing: 0.0375em;
+	line-height: 1.8em;
+	margin-top: 6vh;
+}
+
+.peni {
+	padding-top: 4vh;
+	padding-bottom: 8.5vh;
+}
+
+.section3 {
+	padding-bottom: 8.5vh;
+}
+
+.red {
+	color: #ec0000;
+}
+
+.black {
+	color: black;
+}
+
+@media screen and (max-width: 700px) {
+
+	h2 {
+		font-size: 2em;
+	}
+
+	.section1 p {
+		font-size: 0.9em;
+	}
+
+	.section2 p {
+		font-size: 0.9em;
+	}
+
+	table {
+		font-size: 0.4em;
+	}
+
+	.table_blur td {
+		padding: 4px 2px;
+	}
+
+	.table_blur th {
+		padding: 6px 2px;
+	}
+}
+
+@media screen and (max-width: 380px) {
+
+	h2 {
+		font-size: 1.6em;
+	}
+}

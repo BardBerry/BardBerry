@@ -1,0 +1,173 @@
+/*Контакты*/
+
+header {
+	background: url(../img/Bg8.jpg) no-repeat center center / cover;
+}
+
+.here {
+	text-decoration: underline;
+	color: #fff;
+}
+
+.here2 {
+	border-top: 1px solid #fff;
+	border-bottom: 1px solid #fff;
+	padding: 4px 0px;
+}
+
+.section1 h2, .section2 h2 {
+	font-size: 2.5em;
+	text-align: center;
+	padding-top: 8.5vh;	
+	color:  : #2b2b30;;
+	letter-spacing: 0.05em;
+}
+
+.hr {
+	border: none;
+	background-color: #2b2b30;
+	width: 170px;
+	height: 2px;
+	margin: 0 auto;
+	margin-top: 1.8vh;
+	margin-bottom: 6vh;
+}
+
+.hr2 {
+	border: none;
+	background-color: #dbdbdb;
+	width: 84%;
+	height: 2px;
+	margin: 0 auto;
+	margin-top: 2vh;
+	margin-bottom: 2vh;
+}
+
+.center {
+	max-width: 100%;
+	margin-right: 8%;
+	margin-left: 8%;
+	border: 2px solid #dbdbdb;
+
+}
+
+.section1 {
+	background-color: #fff;
+	margin-top: 8.5vh;
+	margin-bottom: 8.5vh;
+	box-shadow: 1em 1em 20px rgba(122,122,122,0.5); 
+	padding-bottom: 8.5vh;
+}
+
+.section2 {
+	background-color: #fff;
+	margin-top: 8.5vh;
+	margin-bottom: 8.5vh;
+	box-shadow: 1em 1em 20px rgba(122,122,122,0.5); 
+	padding-bottom: 6.5vh
+}
+
+.section2 p, .section1 p {
+	font-family: 'Oswald', sans-serif;
+	color: #26242e;
+	font-size: 1.2em;
+	text-transform: none;
+	letter-spacing: 0.0375em;
+	line-height: 1.8em;
+	text-align: justify;
+	margin-left: 8%;
+	margin-right: 8%;
+}
+
+header .phone {
+	color: #fff;
+}
+
+.h4 {
+	padding-top: 8.5vh;
+}
+
+.section1 p {
+	padding-bottom: 3vh;
+	font-size: 1.6em;
+}
+
+.patop {
+	padding-bottom: 2vh;
+}
+
+.patop_2 {
+	padding-bottom: 4vh;
+}
+
+.map2, .map3, .map4, .map5 {
+	display: none;
+}
+
+@media screen and (max-width: 900px) {
+	.map1 {
+		display: none;
+	}
+
+	.map2 {
+		display: block;
+	}
+}
+
+@media screen and (max-width: 750px) {
+	.map2 {
+		display: none;
+	}
+
+	.map3 {
+		display: block;
+	}
+}
+
+@media screen and (max-width: 600px) {
+	.map3 {
+		display: none;
+	}
+
+	.map4 {
+		display: block;
+	}
+}
+
+@media screen and (max-width: 700px) {
+
+	.section2 h2 {
+		font-size: 1.8em;
+	}
+
+	.section1 h2 {
+		font-size: 1.8em;
+	}
+
+	.section1 p {
+		font-size: 0.9em;
+	}
+
+	.section2 p {
+		font-size: 0.9em;
+	}
+}
+
+
+@media screen and (max-width: 520px) {
+	
+	.section2 h2 {
+		font-size: 1.4em;
+	}
+	.section1 h2 {
+		font-size: 1.2em;
+	}
+
+	.map4 {
+		display: none;
+	}
+
+	.map5 {
+		display: block;
+	}
+}
