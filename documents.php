@@ -3,9 +3,9 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Шелковик-1/Документы</title>
-	<meta name="description" content="Сайт Шелковик-1. Документы.">
-	<meta name="Keywords" content="Silkhouse, Шелковик-1, Шелковик, садоводческое некоммерческое товарищество, СНТ, документы">
+	<title>Шелковик1/Документы</title>
+	<meta name="description" content="Сайт Шелковик1. Документы">
+	<meta name="Keywords" content="Silkhouse, Шелковик-1, Шелковик, Шелковик1, садоводческое некоммерческое товарищество, СНТ, документы">
 	<link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
 	<link rel="stylesheet" type="text/css" href="css/general.css">
 	<link rel="stylesheet" type="text/css" href="css/documents.css">
@@ -48,9 +48,9 @@
 <body>
 	<div class="content">
 	<header>
-		<div><img src="img/стрелка2.png" alt="Наверх" ID = "toTop"></div>
+		<div><img src="img/strelka2.png" alt="Наверх" ID = "toTop"></div>
 		<div class="container clearfix height_vh">
-			<img src="img/Эллипс4.png" alt="SilkHouse" class="logo logo1">
+			<img src="img/ellips4.png" alt="SilkHouse" class="logo logo1">
 			<img src="img/logo.png" alt="SilkHouse" class="logo logo2">
 			<div id="phone">
 				<div class="phone">+7 (920) 906-65-26</div>
@@ -169,7 +169,7 @@
 		</ul>
 		<ul>
 			<li class="special">
-				<img src="img/ФайлИконка.png" alt="Иконка файла">
+				<img src="img/fileicon.png" alt="Иконка файла">
 			</li>
 			<li>
 				<p><a href="https://drive.google.com/open?id=1lORBeDWcSno_Jx72nqHB2LXLuYdHbbjS" target="_blank" class="padding">Реквизиты СНТ "Шелковик-1"</a></p>
@@ -177,7 +177,7 @@
 		</ul>
 		<ul>
 			<li class="special">
-				<img src="img/ФайлИконка.png" alt="Иконка файла">
+				<img src="img/fileicon.png" alt="Иконка файла">
 			</li>
 			<li>
 				<p><a href="https://drive.google.com/drive/folders/1PzkqBasvt-QV4Ufwb2ClLsh54IlcdGBm?usp=sharing" target="_blank" class="padding">Протокол общего собрания СНТ "Шелковик-1" 07 мая 2017 года</a></p>
@@ -185,7 +185,7 @@
 		</ul>
 		<ul>
 			<li class="special">
-				<img src="img/ФайлИконка.png" alt="Иконка файла">
+				<img src="img/fileicon.png" alt="Иконка файла">
 			</li>
 			<li>
 				<p><a href="https://drive.google.com/drive/folders/1U5Hfy5Ub5YOKmxhfoU1vLqJwEBjHQt9L?usp=sharing" target="_blank" class="padding">Устав СНТ "Шелковик-1"</a></p>
@@ -193,7 +193,7 @@
 		</ul>
 		<ul>
 			<li class="special">
-				<img src="img/ФайлИконка.png" alt="Иконка файла">
+				<img src="img/fileicon.png" alt="Иконка файла">
 			</li>
 			<li>
 				<p><a href="https://drive.google.com/file/d/10EwN4fo6A_LrahfRPBCqGNTLrXdhiGBI/view?usp=sharing" target="_blank" class="padding">Акт на землю СНТ "Шелковик-1" 1974 года</a></p>
@@ -201,7 +201,7 @@
 		</ul>
 		<ul>
 			<li class="special">
-				<img src="img/ФайлИконка.png" alt="Иконка файла">
+				<img src="img/fileicon.png" alt="Иконка файла">
 			</li>
 			<li>
 				<p><a href="https://drive.google.com/file/d/17ShMpHn7cy5PAPRC19AnmjNMEGhLLS5i/view?usp=sharing" target="_blank" class="padding">Свидетельство внесения в ЕГРН</a></p>
@@ -209,7 +209,7 @@
 		</ul>
 		<ul>
 			<li class="special">
-				<img src="img/ФайлИконка.png" alt="Иконка файла">
+				<img src="img/fileicon.png" alt="Иконка файла">
 			</li>
 			<li>
 				<p><a href="https://drive.google.com/file/d/16ShqthKxWMomiabofNNSi-rVhj0J4mUz/view?usp=sharing" target="_blank" class="padding">Свидетельство о государственной регистрации СНТ "Шелковик-1" 1999 года</a></p>
@@ -217,7 +217,7 @@
 		</ul>
 		<ul>
 			<li class="special">
-				<img src="img/ФайлИконка.png" alt="Иконка файла">
+				<img src="img/fileicon.png" alt="Иконка файла">
 			</li>
 			<li>
 				<p><a href="https://drive.google.com/file/d/1VziSsdG1f-qcDnyHq5DqKBoDEJdN2wqO/view?usp=sharing" target="_blank" class="padding">Свидетельство о постановке на учет в ИФНС</a></p>
@@ -225,7 +225,7 @@
 		</ul>
 		<ul>
 			<li class="special">
-				<img src="img/ФайлИконка.png" alt="Иконка файла">
+				<img src="img/fileicon.png" alt="Иконка файла">
 			</li>
 			<li>
 				<p><a href="https://drive.google.com/open?id=12PSpsaElVmOFL6m-_IUB_NS51Mrr2QyK" target="_blank" class="padding">Федеральный закон № 66-ФЗ</a></p>
@@ -233,7 +233,7 @@
 		</ul>
 		<ul>
 			<li class="special">
-				<img src="img/ФайлИконка.png" alt="Иконка файла">
+				<img src="img/fileicon.png" alt="Иконка файла">
 			</li>
 			<li>
 				<p><a href="https://drive.google.com/open?id=1xUrmgOXElknMlCf68t_tgL_SAiqq18Vk" target="_blank" class="padding">Федеральный закон от 29 июля 2017 года № 217-ФЗ</a></p>

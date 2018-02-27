@@ -3,9 +3,9 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Шелковик-1/Галерея</title>
-	<meta name="description" content="Сайт Шелковик-1. Галерея.">
-	<meta name="Keywords" content="Silkhouse, Шелковик-1, Шелковик, садоводческое некоммерческое товарищество, СНТ, галерея">
+	<title>Шелковик1/Галерея</title>
+	<meta name="description" content="Сайт Шелковик1. Галерея">
+	<meta name="Keywords" content="Silkhouse, Шелковик-1, Шелковик1, Шелковик, садоводческое некоммерческое товарищество, СНТ, галерея">
 	<link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
 	<link rel="stylesheet" type="text/css" href="css/general.css">
 	<link rel="stylesheet" type="text/css" href="css/gallery.css">
@@ -57,9 +57,9 @@
 <body>
 	<div class="content">
 	<header>
-		<div><img src="img/стрелка2.png" alt="Наверх" ID = "toTop"></div>
+		<div><img src="img/strelka2.png" alt="Наверх" ID = "toTop"></div>
 		<div class="container clearfix height_vh">
-			<img src="img/Эллипс4.png" alt="SilkHouse" class="logo logo1">
+			<img src="img/ellips4.png" alt="SilkHouse" class="logo logo1">
 			<img src="img/logo.png" alt="SilkHouse" class="logo logo2">
 			<div id="phone">
 				<div class="phone">+7 (920) 906-65-26</div>
@@ -132,13 +132,16 @@
 	<h2>Галерея</h2>
 	<hr>
 	<div class="gallery">
+		<a href="img/map.jpg"" rel="group_1"><img src="img/map.jpg" class="map"></a>
+	</div>
+	<div class="gallery">
 		<a href="img/gallery/image-32.jpg" rel="group_1"><img src="img/gallery/image32.jpg" class="small" alt=""></a>
-		<a href="img/gallery/image-17.jpg" rel="group_1"><img src="img/gallery/image17.jpg" class="small" alt=""></a>
-		<a href="img/gallery/image-22.jpg" rel="group_1"><img src="img/gallery/image22.jpg" class="small" alt=""></a>
-		<a href="img/gallery/image-26.jpg" rel="group_1"><img src="img/gallery/image26.jpg" class="small" alt=""></a>
-		<a href="img/gallery/image-25.jpg" rel="group_1"><img src="img/gallery/image25.jpg" class="small" alt=""></a>
-		<a href="img/gallery/image-1.jpg" rel="group_1"><img src="img/gallery/image1.jpg" class="small" alt=""></a>
-		<a href="img/gallery/image-7.jpg" rel="group_1"><img src="img/gallery/image7.jpg" class="small" alt=""></a>
+		<a href="img/gallery/image-177.jpg" rel="group_1"><img src="img/gallery/image17.jpg" class="small" alt=""></a>
+		<a href="img/gallery/image-222.jpg" rel="group_1"><img src="img/gallery/image22.jpg" class="small" alt=""></a>
+		<a href="img/gallery/image-266.jpg" rel="group_1"><img src="img/gallery/image26.jpg" class="small" alt=""></a>
+		<a href="img/gallery/image-255.jpg" rel="group_1"><img src="img/gallery/image25.jpg" class="small" alt=""></a>
+		<a href="img/gallery/image-111.jpg" rel="group_1"><img src="img/gallery/image1.jpg" class="small" alt=""></a>
+		<a href="img/gallery/image-777.jpg" rel="group_1"><img src="img/gallery/image7.jpg" class="small" alt=""></a>
 		<a href="img/gallery/image-10.jpg" rel="group_1"><img src="img/gallery/image10.jpg" class="small" alt=""></a>
 		<a href="img/gallery/image-11.jpg" rel="group_1"><img src="img/gallery/image11.jpg" class="small" alt=""></a>
 		<a href="img/gallery/image-12.jpg" rel="group_1"><img src="img/gallery/image12.jpg" class="small" alt=""></a>

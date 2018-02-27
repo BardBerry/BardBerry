@@ -3,9 +3,9 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Шелковик-1/Должники</title>
-	<meta name="description" content="Сайт Шелковик-1. Должники.">
-	<meta name="Keywords" content="Silkhouse, Шелковик-1, Шелковик, садоводческое некоммерческое товарищество, СНТ, должники, неплательщики, взносы">
+	<title>Шелковик1/Должники</title>
+	<meta name="description" content="Сайт Шелковик1. Должники">
+	<meta name="Keywords" content="Silkhouse, Шелковик-1, Шелковик1, Шелковик, садоводческое некоммерческое товарищество, СНТ, должники, неплательщики, взносы">
 	<link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
 	<link rel="stylesheet" type="text/css" href="css/general.css">
 	<link rel="stylesheet" type="text/css" href="css/debtors.css">
@@ -48,9 +48,9 @@
 <body>
 	<div class="content">
 	<header>
-		<div><img src="img/стрелка2.png" alt="Наверх" ID = "toTop"></div>
+		<div><img src="img/strelka2.png" alt="Наверх" ID = "toTop"></div>
 		<div class="container clearfix height_vh">
-			<img src="img/Эллипс4.png" alt="SilkHouse" class="logo logo1">
+			<img src="img/ellips4.png" alt="SilkHouse" class="logo logo1">
 			<img src="img/logo.png" alt="SilkHouse" class="logo logo2">
 			<div id="phone">
 				<div class="phone">+7 (920) 906-65-26</div>

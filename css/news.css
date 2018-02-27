@@ -8,8 +8,12 @@ header {
 	display:none;
 }
 
-.news_text a{
+.news_text a {
 	color: #668e23;
+}
+
+.news_text a:hover {
+	color: #92cc30;
 }
 
 .padding-top {

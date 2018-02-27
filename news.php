@@ -3,9 +3,9 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Шелковик-1/Новости</title>
-	<meta name="description" content="Сайт Шелковик-1. Все новости.">
-	<meta name="Keywords" content="Silkhouse, Шелковик-1, Шелковик, садоводческое некоммерческое товарищество, СНТ, новости">
+	<title>Шелковик1/Новости</title>
+	<meta name="description" content="Сайт Шелковик1. Все новости">
+	<meta name="Keywords" content="Silkhouse, Шелковик-1, Шелковик, Шелковик1, садоводческое некоммерческое товарищество, СНТ, новости">
 	<link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
 	<link rel="stylesheet" type="text/css" href="css/general.css">
 	<link rel="stylesheet" type="text/css" href="css/news.css">
@@ -48,10 +48,10 @@
 <body>
 	<div class="content">
 	<header>
-		<div><img src="img/стрелка2.png" alt="Наверх" ID = "toTop"></div>
+		<div><img src="img/strelka2.png" alt="Наверх" ID = "toTop"></div>
 		<div class="container clearfix height_vh">
-			<img src="img/Эллипс4.png" alt="SilkHouse" class="logo logo1">
-			<img src="img/Эллипс4.png" alt="SilkHouse" class="logo logo2">
+			<img src="img/ellips4.png" alt="SilkHouse" class="logo logo1">
+			<img src="img/ellips4.png" alt="SilkHouse" class="logo logo2">
 			<div id="phone">
 				<div class="phone">+7 (920) 906-65-26</div>
 				<img src="img/number2.png" alt="phone" class="number">	
@@ -128,7 +128,7 @@
 			<table>
 				<tr>
 					<td>
-						<img src="img/Новость11.jpg" class="border">
+						<img src="img/news11.jpg" class="border">
 					</td>
 					<td class="td_top">
 						<div class="news_h3">
@@ -155,7 +155,7 @@
 				</tr>
 				<tr>
 					<td>
-						<img src="img/Новость10.jpg" class="border">
+						<img src="img/news10.jpg" class="border">
 					</td>
 					<td class="td_top">
 						<div class="news_h3">
@@ -184,7 +184,7 @@
 				</tr>
 				<tr>
 					<td>
-						<img src="img/Новость1.jpg" class="border">
+						<img src="img/news1.jpg" class="border">
 					</td>
 					<td class="td_top">
 						<div class="news_h3">
@@ -217,7 +217,7 @@
 				</tr>
 				<tr>
 					<td>
-						<img src="img/Новость2.jpg" class="border">
+						<img src="img/news2.jpg" class="border">
 					</td>
 					<td class="td_top">
 						<div class="news_h3">
@@ -243,7 +243,7 @@
 					</tr>
 				<tr>
 					<td>
-						<img src="img/Новость3.jpg" class="border">
+						<img src="img/news3.jpg" class="border">
 					</td>
 					<td class="td_top">
 						<div class="news_h3">
@@ -270,7 +270,7 @@
 				</tr>
 				<tr>
 					<td>
-						<img src="img/Новость4.jpg" class="border">
+						<img src="img/news4.jpg" class="border">
 					</td>
 					<td class="td_top">
 						<div class="news_h3">
@@ -297,7 +297,7 @@
 				</tr>
 				<tr>
 					<td>
-						<img src="img/Новость5.jpg" class="border">
+						<img src="img/news5.jpg" class="border">
 					</td>
 					<td class="td_top">
 						<div class="news_h3">
@@ -324,7 +324,7 @@
 				</tr>
 				<tr>
 					<td>
-						<img src="img/Новость6.jpg" class="border">
+						<img src="img/news6.jpg" class="border">
 					</td>
 					<td class="td_top">
 						<div class="news_h3">
@@ -351,7 +351,7 @@
 				</tr>
 				<tr>
 					<td>
-						<img src="img/Новость7.jpg" class="border">
+						<img src="img/news7.jpg" class="border">
 					</td>
 					<td class="td_top">
 						<div class="news_h3">
@@ -378,7 +378,7 @@
 				</tr>
 				<tr>
 					<td>
-						<img src="img/Новость8.jpg" class="border">
+						<img src="img/news8.jpg" class="border">
 					</td>
 					<td class="td_top">
 						<div class="news_h3">
@@ -406,7 +406,7 @@
 				</tr>
 				<tr>
 					<td>
-						<img src="img/Новость9.jpg" class="border">
+						<img src="img/news9.jpg" class="border">
 					</td>
 					<td class="td_top">
 						<div class="news_h3">

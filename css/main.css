@@ -236,8 +236,12 @@ header h1{
 	display:none;
 }
 
-.news_text a{
+.news_text a {
 	color: #668e23;
+}
+
+.news_text a:hover {
+	color: #92cc30;
 }
 
 .news-text {
@@ -374,7 +378,7 @@ td {
 /* Третий блок */
 
 .section3 {
-	background: url(../img/лесфон.jpg) no-repeat center center / cover;	
+	background: url(../img/forestfone.jpg) no-repeat center center / cover;	
 	color: #fff;
 	margin: 0 auto;
 }
@@ -710,7 +714,7 @@ footer p{
 @media screen and (max-width: 900px) {
 	
 	.section3 {
-		background: url(../img/лепестки2.jpg) no-repeat center center / cover;	
+		background: url(../img/lists2.jpg) no-repeat center center / cover;	
 	}
 
 	.about_us_class {

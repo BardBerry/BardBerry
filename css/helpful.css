@@ -15,6 +15,14 @@ header {
 	padding: 4px 0px;
 }
 
+.section1 a {
+	color: #668e23;
+}
+
+.section1 a:hover {
+	color: #92cc30;
+}
+
 .section1 h2, .section2 h2 {
 	font-size: 2.5em;
 	text-align: center;
@@ -60,6 +68,26 @@ header .phone {
 .padding {
 	padding-bottom: 1vh; 
 	padding-top: 2vh;
+}
+
+.img1 {
+	max-width: 100%;
+}
+
+.img2 {
+	max-width: 100%;
+	padding-top: 6vh;
+}
+
+.center {
+	margin: auto;
+	display: block;
+}
+
+@media screen and (max-width: 900px) {
+	.img1, .img2 {
+		max-width: 80%;
+	}
 }
 
 @media screen and (max-width: 700px) {
