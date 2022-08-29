@@ -13,12 +13,9 @@
   <div>
     <h2>Contacts</h2>
     <ul>
-      <li><a href="bardberry@yandex.ru">bardberry@yandex.ru</a></li>
-      <li>Telegram: @BardBerry </li>
+      <li>email: <a href="bardberry@yandex.ru">bardberry@yandex.ru</a></li>
+      <li>telegram: <a href="https://t.me/bardberry">@BardBerry</a></li>
     </ul>
-    <a href="https://t.me/bardberry">
-      <img src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram badge"/>
-    </a>
   </div>
   
   <div>
