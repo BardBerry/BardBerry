@@ -6,6 +6,11 @@
   </div>
   
   <div>
+    <h2>About me</h2>
+    I am a Full Stack Developer from Russia
+  </div>
+  
+  <div>
     <h2>Contacts</h2>
     <ul>
       <li><a href="bardberry@yandex.ru">bardberry@yandex.ru</a></li>
