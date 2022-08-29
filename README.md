@@ -6,7 +6,6 @@
   </div>
   
   <div>
-    <h2>About me</h2>
     I am a Full Stack Developer from Russia
   </div>
   
