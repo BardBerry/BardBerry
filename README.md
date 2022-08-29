@@ -8,7 +8,7 @@
   <div>
     <h2>Contacts</h2>
     <ul>
-      <li>email: bardberry@yandex.ru</li>
+      <li>email:<a>bardberry@yandex.ru</a></li>
       <li>Telegram: @BardBerry </li>
     </ul>
     <a href="https://t.me/bardberry">
