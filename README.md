@@ -6,7 +6,7 @@
   </div>
   
   <div>
-    <h3>Tech stack</h3>
+    <h2 style="font-size:16px;">Tech stack</h2>
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5 badge"/>
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=gray" alt="css3 badge"/>
     <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="javascript badge"/>
@@ -17,7 +17,7 @@
   </div>
   
   <div>
-    <h2>Contacts</h2>
+    <h2 style="font-size:16px;">Contacts</h2>
     <a href="your-linkedin-URL">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
@@ -30,7 +30,7 @@
   </div>
   
   <div>
-    <h3>I’m currently learning</h3>
+    <h2 style="font-size:16px;">I’m currently learning</h2>
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5 badge"/>
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=gray" alt="css3 badge"/>
     <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="javascript badge"/>
