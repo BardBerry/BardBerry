@@ -1,9 +1,15 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" width="100"/>
   
   <div>Hi, i'm BardBerry</div>
   <hr>
+  <br>
   <div>Tech Stack</div>
+  <br>
+  
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Twitter Badge"/>
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=gray" alt="Twitter Badge"/>
+  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Twitter Badge"/>
   
   <div id="badges">
     <a href="your-linkedin-URL">
@@ -20,9 +26,7 @@
 
 Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E)
+
 
 I’m currently learning
 
