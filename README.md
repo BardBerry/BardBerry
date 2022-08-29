@@ -3,10 +3,10 @@
   
   <div>Hi, i'm BardBerry</div>
   <hr>
-  <br>
   <div>Tech Stack</div>
   <br>
   
+  ---
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5 badge"/>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=gray" alt="css3 badge"/>
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="javascript badge"/>
@@ -14,7 +14,8 @@
   <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="redux badge"/>
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js badge"/>
   <img src="https://img.shields.io/badge/express-17202C?style=for-the-badge&logo=express&logoColor=61DAFB" alt="express badge"/>
-  
+  ---
+
   <div id="badges">
     <a href="your-linkedin-URL">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
