@@ -6,7 +6,18 @@
   </div>
   
   <div>
-    <h2 style="font-size: 8px;">Tech stack</h2>
+    <h2>Contacts</h2>
+    <ul>
+      <li>email: bardberry@yandex.ru</li>
+      <li>Telegram: @BardBerry </li>
+    </ul>
+    <a href="https://t.me/bardberry">
+      <img src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram badge"/>
+    </a>
+  </div>
+  
+  <div>
+    <h2>Tech stack</h2>
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5 badge"/>
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=gray" alt="css3 badge"/>
     <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="javascript badge"/>
@@ -17,27 +28,9 @@
   </div>
   
   <div>
-    <h2 style="font-size:16px;">Contacts</h2>
-    <a href="your-linkedin-URL">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="your-youtube-URL">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
-    <a href="your-twitter-URL">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-  </div>
-  
-  <div>
-    <h2 style="font-size:16px;">I’m currently learning</h2>
-    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5 badge"/>
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=gray" alt="css3 badge"/>
-    <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="javascript badge"/>
-    <img src="https://img.shields.io/badge/react-263238?style=for-the-badge&logo=react&logoColor=#61DAFB" alt="react badge"/>
-    <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="redux badge"/>
-    <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js badge"/>
-    <img src="https://img.shields.io/badge/express-17202C?style=for-the-badge&logo=express&logoColor=61DAFB" alt="express badge"/>
+    <h2>I’m currently learning</h2>
+    <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass badge"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" alt="typescipt badge"/>
   </div>
 </div>
 
