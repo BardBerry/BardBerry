@@ -17,7 +17,7 @@
   </div>
   
   <div>
-    <h3>Contacts</h3>
+    <h2>Contacts</h2>
     <a href="your-linkedin-URL">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
