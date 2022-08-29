@@ -2,7 +2,7 @@
 
 Tech Stack
 
-![HTML%](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=white)
+![HTML%](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=#E34F26)
 
 I’m currently learning
 
