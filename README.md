@@ -1,5 +1,11 @@
 ### Hi i'm BardBerry
 
+Tech Stack
+
+I’m currently learning
+
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
 <!--
 **BardBerry/BardBerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
