@@ -7,6 +7,7 @@
   
   <div>
     <h2>Contacts</h2>
+    - <a>test</a>
     <ul>
       <li>email:<a>bardberry@yandex.ru</a></li>
       <li>Telegram: @BardBerry </li>
