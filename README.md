@@ -4,7 +4,7 @@
     <img src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" width="300"/>
     <h1>Hi, i'm BardBerry</h1>
   </div>
-  ![](https://raw.githubusercontent.com/bardberry/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+  ![](https://raw.githubusercontent.com/BardBerry/github-stats/master/generated/overview.svg#gh-dark-mode-only)
   
   <div>
     I am a Full Stack Developer from Russia
