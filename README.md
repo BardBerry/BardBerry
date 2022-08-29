@@ -4,7 +4,7 @@
     <img src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" width="300"/>
     <h1>Hi, i'm BardBerry</h1>
   </div>
-  ![](https://raw.githubusercontent.com/BardBerry/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
   
   <div>
     I am a Full Stack Developer from Russia
@@ -37,6 +37,8 @@
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" alt="typescipt badge"/>
   </div>
 </div>
+
+![](https://raw.githubusercontent.com/BardBerry/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 <!--
 **BardBerry/BardBerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
