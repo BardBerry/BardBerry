@@ -4,6 +4,7 @@
     <img src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" width="300"/>
     <h1>Hi, i'm BardBerry</h1>
   </div>
+  ![](https://raw.githubusercontent.com/bardberry/github-stats/master/generated/overview.svg#gh-dark-mode-only)
   
   <div>
     I am a Full Stack Developer from Russia
@@ -26,6 +27,8 @@
     <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="redux badge"/>
     <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js badge"/>
     <img src="https://img.shields.io/badge/express-17202C?style=for-the-badge&logo=express&logoColor=61DAFB" alt="express badge"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="postgresql badge"/>
+    <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="sequelize badge"/>
   </div>
   
   <div>
