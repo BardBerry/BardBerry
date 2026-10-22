@@ -1,11 +1,8 @@
 <div id="header">
-  
   <div align="center">
     <img src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" width="300"/>
     <h1>Hi, i'm BardBerry</h1>
   </div>
-
-  
   <div>
     <h2>Find me</h2>
     <ul>
@@ -13,7 +10,6 @@
       <li>Telegram: <a href="https://t.me/bardberry">@BardBerry</a></li>
     </ul>
   </div>
-
 </div>
 
 ![](https://raw.githubusercontent.com/BardBerry/github-stats/master/generated/overview.svg#gh-dark-mode-only)
