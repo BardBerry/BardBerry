@@ -10,11 +10,8 @@
       I spent years competing in esports, and I'm still a competitive player at heart.
     </p>
     <p>
-      Turns out the mindset carries over — I still enjoy figuring out how things work,
-      experimenting with different approaches, and finding ways to become a better
-      version of myself.
+    I enjoy programming for many of the same reasons I enjoy competitive games: figuring out how things work, experimenting with different approaches, and finding ways to become a better version of myself.
     </p>
-    <p><strong>Different game, same player.</strong></p>
   </div>
   
   <div>
