@@ -5,37 +5,26 @@
     <h1>Hi, i'm BardBerry</h1>
   </div>
 
-  
   <div>
-    I am a Full Stack Developer from Russia
+    <p>
+      I spent years competing in esports, and I'm still a competitive player at heart.
+    </p>
+    <p>
+      Turns out the mindset carries over — I still enjoy figuring out how things work,
+      experimenting with different approaches, and finding ways to become a better
+      version of myself.
+    </p>
+    <p><strong>Different game, same player.</strong></p>
   </div>
   
   <div>
-    <h2>Contacts</h2>
+    <h2>Find me</h2>
     <ul>
-      <li>email: <a href="bardberry@yandex.ru">bardberry@yandex.ru</a></li>
-      <li>telegram: <a href="https://t.me/bardberry">@BardBerry</a></li>
+      <li>Email: <a href="mailto:bardberry@yandex.ru">bardberry@yandex.ru</a></li>
+      <li>Telegram: <a href="https://t.me/bardberry">@BardBerry</a></li>
     </ul>
   </div>
-  
-  <div>
-    <h2>Tech stack</h2>
-    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5 badge"/>
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=gray" alt="css3 badge"/>
-    <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="javascript badge"/>
-    <img src="https://img.shields.io/badge/react-263238?style=for-the-badge&logo=react&logoColor=#61DAFB" alt="react badge"/>
-    <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="redux badge"/>
-    <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js badge"/>
-    <img src="https://img.shields.io/badge/express-17202C?style=for-the-badge&logo=express&logoColor=61DAFB" alt="express badge"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="postgresql badge"/>
-    <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="sequelize badge"/>
-  </div>
-  
-  <div>
-    <h2>I’m currently learning</h2>
-    <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass badge"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" alt="typescipt badge"/>
-  </div>
+
 </div>
 
 ![](https://raw.githubusercontent.com/BardBerry/github-stats/master/generated/overview.svg#gh-dark-mode-only)
