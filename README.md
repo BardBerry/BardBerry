@@ -5,8 +5,6 @@
     <h1>Hi, i'm BardBerry</h1>
   </div>
 
-  <div>
-  </div>
   
   <div>
     <h2>Find me</h2>
