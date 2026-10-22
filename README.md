@@ -6,12 +6,6 @@
   </div>
 
   <div>
-    <p>
-      I spent years competing in esports, and I'm still a competitive player at heart.
-    </p>
-    <p>
-    I enjoy programming for many of the same reasons I enjoy competitive games: figuring out how things work, experimenting with different approaches, and finding ways to become a better version of myself.
-    </p>
   </div>
   
   <div>
